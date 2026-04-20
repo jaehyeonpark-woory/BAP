@@ -20,3 +20,4 @@
 | **미스터빠삭** | 돈까스 | | | naver.me/GrmFYdjG |
 | **별동숯불화로구이** | 돼지양념구이, 오삼불고기 | 주차장 O | | naver.me/FvQQ7zli |
 | **바오돈까스** | 돈까스 | 헬 | | |
+| **남례명인순대국 본점** | 국밥 | 개씹헬 | | [🥄](https://map.naver.com/p/entry/place/1883718187?placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201123&locale=ko&svcName=map_pcv5&c=15.00,0,0,0,dh) |
