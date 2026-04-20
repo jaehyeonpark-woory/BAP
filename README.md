@@ -1,24 +1,26 @@
 # 🍕🍔🍟🌭🥓🥞🥐🥨🌮🥪🥙🥗🥩🍠🍗🍖🍤🍜🍩🥣🌮
 | 이름 | 메뉴 | 주차 | 비고 | URL |
-| :--- | :--- | :--- | :--- | :--- |
-| **민속밀면** | 밀면 | 주차장 O | | |
-| **양평해장국** | 해장국 | 주차장 O | | |
-| **지곡상회** | 부대찌개 | 주차장 O | | |
-| **와식당** | 일식 덮밥, 1인 전골 | 헬 | 점심시간 웨이팅 있음, 테이블 부족, 2-4인 적절 | |
-| **도원** | 중식 | 주차장 O | | |
-| **짬뽕깡패꼬짬** | 중식 | 주차장 O | | |
-| **청해** | 중식 | 헬 | | |
-| **항아리보쌈** | 보쌈 | 갓길주차 여유 | | |
-| **남원돌솥추어탕** | 추어탕 | 주차장 O | 비위생적 | |
-| **큰마을감자탕** | 감자탕 | 헬 | | |
-| **오봉집** | 낙지볶음, 수육 | | | |
-| **허대감** | 우렁쌈밥 | | | |
-| **미미한식탁** | 메뉴 많음, 김밥천국 수준 | 갓길주차 여유 | | |
-| **문어세상해천탕** | 해천탕, 칼국수 | | | |
-| **솥탐** | 닭볶음탕, 닭개장, 닭곰탕 | | | |
-| **미스터빠삭** | 돈까스 | | | |
-| **별동숯불화로구이** | 돼지양념구이, 오삼불고기 | 주차장 O | | |
-| **바오돈까스** | 돈까스 | 헬 | | |
-| **남례명인순대국 본점** | 국밥 | 개씹헬 | | |
-| **이향가든** | 삼계탕 | 낭낭 | 능이버섯 백숙 | |
-| **교동짬뽕** | 중식 | 낭낭 | 군만두 서비스줌 | |
+| :--- | :--- | :--- | :--- | :---: |
+| **민속밀면** | 밀면 | 주차장 O | | [🥄](https://map.naver.com/p/search/%EB%AF%BC%EC%86%8D%EB%B0%80%EB%A9%B4/place/1050826482?placePath=/home?bk_query=%EB%AF%BC%EC%86%8D%EB%B0%80%EB%A9%B4&entry=pll&fromNxList=true&fromPanelNum=2&timestamp=202604201137&locale=ko&svcName=map_pcv5&searchText=%EB%AF%BC%EC%86%8D%EB%B0%80%EB%A9%B4&entry=pll&from=nx&fromNxList=true&fromPanelNum=2&timestamp=202604201137&locale=ko&svcName=map_pcv5&searchText=%EB%AF%BC%EC%86%8D%EB%B0%80%EB%A9%B4&searchType=place&c=15.00,0,0,0,dh) |
+| **양평해장국** | 해장국 | 주차장 O | | [🥄](https://map.naver.com/p/entry/place/2091684950?lng=127.1271155&lat=37.2542094&placePath=/home?fromPanelNum=1&additionalHeight=76&timestamp=202604201138&locale=ko&svcName=map_pcv5&fromPanelNum=1&additionalHeight=76&timestamp=202604201138&locale=ko&svcName=map_pcv5&searchType=place&c=15.00,0,0,0,dh) |
+| **지곡상회** | 부대찌개 | 주차장 O | | [🥄](https://map.naver.com/p/search/%EC%A7%80%EA%B3%A1%EC%83%81%ED%9A%8C/place/2062824156?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EC%A7%80%EA%B3%A1%EC%83%81%ED%9A%8C&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201139&locale=ko&svcName=map_pcv5&searchText=%EC%A7%80%EA%B3%A1%EC%83%81%ED%9A%8C) |
+| **와식당** | 일식 덮밥, 1인 전골 | 헬 | 점심시간 웨이팅 있음, 테이블 부족, 2-4인 적절 | [🥄](https://map.naver.com/p/search/%EC%99%80%EC%8B%9D%EB%8B%B9/place/1005664688?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EC%99%80%EC%8B%9D%EB%8B%B9&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201139&locale=ko&svcName=map_pcv5&searchText=%EC%99%80%EC%8B%9D%EB%8B%B9) |
+| **도원** | 중식 | 주차장 O | | [🥄](https://map.naver.com/p/search/%EB%8F%84%EC%9B%90/place/11887833?c=13.00,0,0,0,dh&placePath=/home?bk_query=%EB%8F%84%EC%9B%90&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201139&locale=ko&svcName=map_pcv5&searchText=%EB%8F%84%EC%9B%90) |
+| **짬뽕깡패꼬짬** | 중식 | 주차장 O | | [🥄](https://map.naver.com/p/search/%EC%A7%AC%EB%BD%95%EA%B9%A1%ED%8C%A8%EA%BC%AC%EC%A7%AC/place/2005634735?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EC%A7%AC%EB%BD%95%EA%B9%A1%ED%8C%A8%EA%BC%AC%EC%A7%AC&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201140&locale=ko&svcName=map_pcv5&searchText=%EC%A7%AC%EB%BD%95%EA%B9%A1%ED%8C%A8%EA%BC%AC%EC%A7%AC) |
+| **청해** | 중식 | 헬 | | [🥄](https://map.naver.com/p/search/%EC%B2%AD%ED%95%B4/place/1132703604?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EC%B2%AD%ED%95%B4&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201140&locale=ko&svcName=map_pcv5&searchText=%EC%B2%AD%ED%95%B4) |
+| **항아리보쌈** | 보쌈 | 갓길주차 여유 | | [🥄](https://map.naver.com/p/search/%ED%95%AD%EC%95%84%EB%A6%AC%EB%B3%B4%EC%8C%88/place/38003329?c=13.00,0,0,0,dh&placePath=/home?bk_query=%ED%95%AD%EC%95%84%EB%A6%AC%EB%B3%B4%EC%8C%88&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201140&locale=ko&svcName=map_pcv5&searchText=%ED%95%AD%EC%95%84%EB%A6%AC%EB%B3%B4%EC%8C%88) |
+| **남원돌솥추어탕** | 추어탕 | 주차장 O | 비위생적 | [🥄](https://map.naver.com/p/search/%EB%82%A8%EC%9B%90%EB%8F%8C%EC%86%A5%EC%B6%94%EC%96%B4%ED%83%95/place/796808574?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EB%82%A8%EC%9B%90%EB%8F%8C%EC%86%A5%EC%B6%94%EC%96%B4%ED%83%95&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201140&locale=ko&svcName=map_pcv5&searchText=%EB%82%A8%EC%9B%90%EB%8F%8C%EC%86%A5%EC%B6%94%EC%96%B4%ED%83%95) |
+| **큰마당감자탕** | 감자탕 | 헬 | | [🥄](https://map.naver.com/p/entry/place/13014542?placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201141&locale=ko&svcName=map_pcv5&c=15.00,0,0,0,dh) |
+| **오봉집** | 낙지볶음, 수육 | | | [🥄](https://map.naver.com/p/search/%EC%98%A4%EB%B4%89%EC%A7%91/place/1229314182?c=15.00,0,0,0,dh&placePath=/home?entry=bmp&from=map&fromPanelNum=2&timestamp=202604201141&locale=ko&svcName=map_pcv5&searchText=%EC%98%A4%EB%B4%89%EC%A7%91) |
+| **허대감** | 우렁쌈밥 | | | [🥄](https://map.naver.com/p/search/%ED%97%88%EB%8C%80%EA%B0%90/place/20575635?c=15.00,0,0,0,dh&placePath=/home?bk_query=%ED%97%88%EB%8C%80%EA%B0%90&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201142&locale=ko&svcName=map_pcv5&searchText=%ED%97%88%EB%8C%80%EA%B0%90) |
+| **미미한식탁** | 메뉴 많음, 김밥천국 수준 | 갓길주차 여유 | | [🥄](https://map.naver.com/p/search/%EB%AF%B8%EB%AF%B8%ED%95%9C%EC%8B%9D%ED%83%81/place/1476464618?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EB%AF%B8%EB%AF%B8%ED%95%9C%EC%8B%9D%ED%83%81&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201143&locale=ko&svcName=map_pcv5&searchText=%EB%AF%B8%EB%AF%B8%ED%95%9C%EC%8B%9D%ED%83%81) |
+| **문어세상해천탕** | 해천탕, 칼국수 | | | [🥄](https://map.naver.com/p/search/%EB%AC%B8%EC%96%B4%EC%84%B8%EC%83%81%ED%95%B4%EC%B2%9C%ED%83%95/place/1211160661?c=15.00,0,0,0,dh&placePath=%3Fbk_query%253D%2525EB%2525AC%2525B8%2525EC%252596%2525B4%2525EC%252584%2525B8%2525EC%252583%252581%2525ED%252595%2525B4%2525EC%2525B2%25259C%2525ED%252583%252595%2526entry%253Dbmp) |
+| **솥탐** | 닭볶음탕, 닭개장, 닭곰탕 | | | [🥄](https://map.naver.com/p/entry/place/2010363720?c=15.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201143&locale=ko&svcName=map_pcv5) |
+| **미스터빠삭** | 돈까스 | | | [🥄](https://map.naver.com/p/search/%EB%AF%B8%EC%8A%A4%ED%84%B0%EB%B9%A0%EC%82%AD/place/1839639769?c=13.00,0,0,0,dh&placePath=%3Fentry%253Dbmp) |
+| **별동숯불화로구이** | 돼지양념구이, 오삼불고기 | 주차장 O | | [🥄](https://map.naver.com/p/entry/place/2079015179?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201144&locale=ko&svcName=map_pcv5) |
+| **바오돈까스** | 돈까스 | 헬 | | [🥄](https://map.naver.com/p/entry/place/1204937302?c=13.00,0,0,0,dh&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201144&locale=ko&svcName=map_pcv5) |
+| **남례명인순대국 본점** | 국밥 | 개씹헬 | | [🥄](https://map.naver.com/p/search/%EB%82%A8%EB%A1%80%EB%AA%85%EC%9D%B8%EC%88%9C%EB%8C%80%EA%B5%AD%20%EB%B3%B8%EC%A0%90/place/1883718187?c=15.00,0,0,0,dh&isCorrectAnswer=true&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201144&locale=ko&svcName=map_pcv5&searchText=%EB%82%A8%EB%A1%80%EB%AA%85%EC%9D%B8%EC%88%9C%EB%8C%80%EA%B5%AD%20%EB%B3%B8%EC%A0%90) |
+| **이향가든** | 삼계탕 | 낭낭 | 능이버섯 백숙 | [🥄](https://map.naver.com/p/search/%EC%9D%B4%ED%96%A5%EA%B0%80%EB%93%A0/place/1164920614?c=15.00,0,0,0,dh&placePath=/home?bk_query=%EC%9D%B4%ED%96%A5%EA%B0%80%EB%93%A0&entry=bmp&from=map&fromPanelNum=2&timestamp=202604201144&locale=ko&svcName=map_pcv5&searchText=%EC%9D%B4%ED%96%A5%EA%B0%80%EB%93%A0) |
+| **교동짬뽕** | 중식 | 낭낭 | 군만두 서비스줌 | [🥄](https://map.naver.com/p/search/%EA%B5%90%EB%8F%99%EC%A7%AC%EB%BD%95%20%EC%9A%A9%EC%9D%B8%20%EC%83%81%ED%95%98%EB%8F%99/place/1995685729?c=14.67,0,0,0,dh&placePath=/home?from=map&fromPanelNum=2&timestamp=202604201145&locale=ko&svcName=map_pcv5&searchText=%EA%B5%90%EB%8F%99%EC%A7%AC%EB%BD%95%20%EC%9A%A9%EC%9D%B8%20%EC%83%81%ED%95%98%EB%8F%99) |
+| **오월돈가스** | 돈까스 | 헬 | 가게 뒤에 주차자리 2개 | [🥄](https://map.naver.com/p/entry/place/1260262119?placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604201142&locale=ko&svcName=map_pcv5&c=15.00,0,0,0,dh) |
+
